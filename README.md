@@ -12,6 +12,9 @@ Please visit https://Clusterify.AI/chatbot
 
 ## Magento 2 Chatbot Extension
 
+Read about our the features of our open source **Magento 2 extension** here:
+https://clusterify.ai/magento-chatbot-assistant
+
 * **PACKAGIST** - https://packagist.org/packages/clusterify/magento-chatbot
 * **GITHUB** - https://github.com/ClusterifyAI/Magento-ChatBot
 
