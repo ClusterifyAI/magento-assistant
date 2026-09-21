@@ -18,7 +18,7 @@ https://clusterify.ai/magento-chatbot-assistant
 * **PACKAGIST** - https://packagist.org/packages/clusterify/magento-chatbot
 * **GITHUB** - https://github.com/ClusterifyAI/Magento-ChatBot
 
-The extension is open source and also ompatible with Adobe Commerce Cloud (ECE2).
+The extension is open source and also compatible with Adobe Commerce Cloud (ECE2).
 
 Start to build today.
 
