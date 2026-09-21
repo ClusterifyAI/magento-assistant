@@ -2,7 +2,7 @@
 
 ## Clusterify.AI
 
-You can read about our Chatbot and Assistant soulution in details and start to convert your website to a conversation.
+You can read about our Chatbot and Assistant soulution in details and start to turn your website to a conversation.
 Please visit https://Clusterify.AI/chatbot 
 
 ## Open Source Chatbot SDK
